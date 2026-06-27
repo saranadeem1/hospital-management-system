@@ -16,9 +16,11 @@ Python · MySQL · mysql-connector-python
 
 ## Setup
 
-1. Install dependencies: pip install mysql-connector-python
-2. Create a MySQL database and update connection details in the script
-3. Run:python hospital_management_system.py
+1. Install dependencies:
+   pip install mysql-connector-python
+3. Create a MySQL database and update connection details in the script
+4. Run:
+   python hospital_management_system.py
 
 ## Course
 Computer Science - Sneh International School, Delhi, India
